@@ -23,7 +23,7 @@ This tool is intended **ONLY** for:
 - Comprehensive reporting
 
 - #USAGE:
-
+python3 osint_recon_enhanced.py +11234567890 --api-key 1b40996c06ee4b3f1883599bc3f6040f -o detailed_report.txt
 - # Basic phone number reconnaissance
 python osint_recon.py +1234567890
 
