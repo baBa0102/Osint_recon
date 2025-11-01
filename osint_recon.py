@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 OSINT Reconnaissance Tool for Authorized Penetration Testing
-Author: HackerAI Assistant
+Author: berry
 Purpose: Legitimate security assessments with proper authorization
 """
 
