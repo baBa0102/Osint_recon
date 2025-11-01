@@ -1,4 +1,3 @@
-# Osint_recon
 # OSINT Reconnaissance Tool
 
 A comprehensive OSINT (Open Source Intelligence) tool for authorized penetration testing and security research.
@@ -22,6 +21,20 @@ This tool is intended **ONLY** for:
 - Public records search
 - Email association discovery
 - Comprehensive reporting
+
+- #USAGE:
+
+- # Basic phone number reconnaissance
+python osint_recon.py +1234567890
+
+# With email association
+python osint_recon.py +1234567890 -e target@example.com
+
+# Save report to file
+python osint_recon.py +1234567890 -o report.txt
+
+# With Numverify API key for enhanced lookup
+python osint_recon.py +1234567890 --api-key YOUR_API_KEY
 
 ## Installation
 
